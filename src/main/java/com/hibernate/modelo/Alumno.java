@@ -7,7 +7,7 @@ import javax.persistence.*;
 @Entity
 @Table(name="alumnos")
 public class Alumno {
-
+//Te estoy hackeando maria muahahahaha
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer idAlumno;
